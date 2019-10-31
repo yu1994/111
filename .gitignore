@@ -1,0 +1,5 @@
+.DS_Store
+/dist
+
+#Editor directories and files
+.idea
